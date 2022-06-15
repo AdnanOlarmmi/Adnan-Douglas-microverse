@@ -1,0 +1,34 @@
+body{
+    background-color: lightgrey;
+  }
+  
+  li a{
+    text-decoration: none;
+    text-decoration-line: none;
+  }
+  #footer{
+    background-color: rgb(233, 233, 233);
+  }
+  .footer-links{
+    text-decoration: none;
+    color: black;
+  }
+  .copy-right{
+    color: gray;
+  }
+  .price-box{
+    border: 1px solid black !important;
+  }
+#top-price-bar{
+width: 100%;
+background-color: lightgray;
+height: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+  }
+
+.nav-link{
+   color: green;
+    margin-left: 50px;
+}
